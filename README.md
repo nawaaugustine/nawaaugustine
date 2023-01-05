@@ -50,7 +50,6 @@ Creating open and closed source software solutions to assist my colleagues who p
 ![React](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ## 🏆 GitHub Trophies
 
