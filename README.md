@@ -1,8 +1,9 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (nawaa(augus|tine Li)|https://nawaaugustine.com/)" title="👋 Hi there! I'm (nawa(augus|tine Li)|https://nawaaugustine.com/)"/>]([https://raymond.li/](https://nawaaugustine.com/))
 
-![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
-<!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nawaaugustine&color=00cf00)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 Here are some ideas to get you started:
 
@@ -15,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello there 👋
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nawaaugustine)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
