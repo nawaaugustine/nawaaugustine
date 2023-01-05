@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 ```yaml
 Creating open and closed source software solutions to assist my colleagues who provide life-saving assistance to displaced households around the world.
 ```
-<!-- - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 𝚊𝚗 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚊𝚝 𝚂𝚘𝚗𝚢 𝙿𝚕𝚊𝚢𝚜𝚝𝚊𝚝𝚒𝚘𝚗! -->
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Contribute to humanitarian open source project 
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
@@ -51,7 +49,7 @@ Creating open and closed source software solutions to assist my colleagues who p
 </a>
 
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nawaaugustine&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nawaaugustine&repo=ODK2Doc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
 ## 📝 Blogs
