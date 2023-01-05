@@ -60,6 +60,14 @@ Creating open and closed source software solutions to assist my colleagues who p
 [![trophy](https://github-profile-trophy.vercel.app/?username=nawaaugustine&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+### 📊 Github Stats
+<a href='https://github.com/nawaaugustine/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/nawaaugustine/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/nawaaugustine/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/nawaaugustine/kobo-mrz">
