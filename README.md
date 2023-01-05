@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (nawaa(augus|tine Li)|https://nawaaugustine.com/)" title="👋 Hi there! I'm (nawa(augus|tine Li)|https://nawaaugustine.com/)"/>]([https://raymond.li/](https://nawaaugustine.com/))
+<!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (nawaa(augus|tine Li)|https://nawaaugustine.com/)" title="👋 Hi there! I'm (nawa(augus|tine Li)|https://nawaaugustine.com/)"/>]([https://raymond.li/](https://nawaaugustine.com/)) -->
 
 # Hello there 👋
 
