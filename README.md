@@ -82,5 +82,5 @@ Creating open and closed source software solutions to assist my colleagues who p
 </a>
 
 ## 📝 Blogs
-- ![Lessons I learned in my twenties](https://medium.com/@ocjpnawa/lessons-i-learned-in-my-twenties-4ed3afce6b75)
-- ![My Thoughts on AI and the Future of Work](https://medium.com/@ocjpnawa/my-thoughts-on-ai-and-the-future-of-work-92d0dc364974)
+- [Lessons I learned in my twenties](https://medium.com/@ocjpnawa/lessons-i-learned-in-my-twenties-4ed3afce6b75)
+- [My Thoughts on AI and the Future of Work](https://medium.com/@ocjpnawa/my-thoughts-on-ai-and-the-future-of-work-92d0dc364974)
