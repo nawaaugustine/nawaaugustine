@@ -3,9 +3,11 @@
 # Hello there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nawaaugustine&color=00cf00)
+![GitHub followers](https://img.shields.io/github/followers/nawaaugustine?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nawaaugustine.com/)](https://nawaaugustine.com/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
- I am a vasatile full-stack developer who loves exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I am a vasatile full-stack developer who loves exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
