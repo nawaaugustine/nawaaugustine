@@ -6,6 +6,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/nawaaugustine?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nawaaugustine.com/)](https://nawaaugustine.com/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=nawaaugustine)
+[![Linkedin: nawa](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawa-augustine-iii-817b5764/)](https://www.linkedin.com/in/nawa-augustine-iii-817b5764/)
 
 I am a vasatile full-stack developer who loves exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
