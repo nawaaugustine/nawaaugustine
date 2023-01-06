@@ -66,7 +66,7 @@ to displaced households around the world.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaaugustine&layout=compact&count_private=true&theme=transparent" />
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 -->
-
+<br />
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/nawaaugustine/kobo-mrz">
