@@ -39,7 +39,6 @@ to displaced households around the world.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![PHP](https://img.shields.io/badge/-php-000?&logo=Php)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### Technologies
 
