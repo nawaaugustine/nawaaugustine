@@ -53,6 +53,9 @@ to displaced households around the world.
 ![React](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 🏆 GitHub Trophies
 
