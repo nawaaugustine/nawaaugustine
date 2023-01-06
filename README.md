@@ -62,6 +62,7 @@ to displaced households around the world.
 
 
 ### 📊 Github Stats
+| 1    | 2    |
 | :--: | :--: |
 | <img align="left" src="https://github-readme-stats.vercel.app/api?username=nawaaugustine&show_icons=true&count_private=true&theme=transparent" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaaugustine&layout=compact&count_private=true&theme=transparent" /> |
 
