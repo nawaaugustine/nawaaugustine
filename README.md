@@ -62,15 +62,10 @@ to displaced households around the world.
 
 
 ### 📊 Github Stats
-<a href='https://github.com/nawaaugustine/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/nawaaugustine/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/nawaaugustine/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nawaaugustine&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaaugustine&layout=compact&count_private=true&theme=gruvbox" />
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 -->
-
 
 ## 🗂️ Highlight Projects
 
