@@ -68,18 +68,5 @@ to displaced households around the world.
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 -->
 <br />
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/nawaaugustine/kobo-mrz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nawaaugustine&repo=kobo-mrz&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="KoBo-MRZ" />
-</a>
-
-<a href="https://github.com/nawaaugustine/ODK2Doc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nawaaugustine&repo=ODK2Doc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ODK2Doc" />
-</a>
-
-<br />
-
 ## 📝 Blogs
-- [Lessons I learned in my twenties](https://medium.com/@ocjpnawa/lessons-i-learned-in-my-twenties-4ed3afce6b75)
-- [My Thoughts on AI and the Future of Work](https://medium.com/@ocjpnawa/my-thoughts-on-ai-and-the-future-of-work-92d0dc364974)
+
