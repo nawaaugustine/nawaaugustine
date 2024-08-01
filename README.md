@@ -6,14 +6,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/nawaaugustine?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nawaaugustine.com/)](https://nawaaugustine.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=nawaaugustine)
-[![Linkedin: nawa](https://img.shields.io/badge/-nawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawa-augustine-iii-817b5764/)](https://www.linkedin.com/in/nawa-augustine-iii-817b5764/)
+[![Linkedin: Ashi](https://img.shields.io/badge/-nawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawa-augustine-iii-817b5764/)](https://www.linkedin.com/in/nawa-augustine-iii-817b5764/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 I am a vasatile full-stack developer who loves exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://evanasoftware.com/wp-content/uploads/2022/08/Logo-Landscape.png" height="20em" align="center" alt="augustinenawa" title="augustinenawa"/>](https://evanasoftware.com)
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://evanasoftware.com/wp-content/uploads/2022/08/Logo-Landscape.png" height="20em" align="center" alt="evanasoftware.com" title="augustinenawa"/>](https://evanasoftware.com)
 - 🎓 First class Degree 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 
