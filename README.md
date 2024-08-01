@@ -20,7 +20,8 @@ I am a vasatile full-stack developer who loves exploring new tech stack 💻 and
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 ...
 ```yaml
-Developing information systems that empower my colleagues to deliver life-saving assistance to displaced households worldwide.
+Developing information systems that empower my colleagues to deliver life-saving assistance to
+displaced households worldwide.
 ```
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Contribute to humanitarian open source project 
